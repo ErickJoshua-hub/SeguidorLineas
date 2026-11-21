@@ -10,3 +10,5 @@ Robot autónomo diseñado para competencias a nivel federal, optimizado para seg
 ## Lógica y Software
 *   **Lenguaje:** MicroPython (Python).
 *   **Control PID:** Implementación de un algoritmo Proporcional, Integral y Derivativo para calcular el error de posición en tiempo real y ajustar dinámicamente la velocidad de los motores, minimizando oscilaciones en curvas cerradas.
+
+* Todo fue programado mediante MicroPython, es el esfuerzo de meses de pruebas y la optimización constante del código en conjunto con una conexión con la red del microcontrolador, de esta forma se obtiene los mejores parámetros para lograr velocidad y control
